@@ -1,0 +1,217 @@
+2024-06-28 16:43:01.8989 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-06-28 16:43:01.9155 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-06-28 16:43:01.9879 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-28 16:43:02.1443 Info Validating config: TargetNames=mysql, ConfigItems=38, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-06-28 16:43:02.1534 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-06-28 16:43:02.2285 Info Configuration initialized.
+2024-06-28 16:53:37.4065 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-06-28 16:53:37.4228 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-06-28 16:53:37.5068 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-28 16:53:37.6264 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-06-28 16:53:37.6346 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-06-28 16:53:37.7206 Info Configuration initialized.
+2024-07-17 09:39:53.0893 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-07-17 09:39:53.1108 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-07-17 09:39:53.1538 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-17 09:39:53.2697 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-07-17 09:39:53.2773 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-07-17 09:39:53.3589 Info Configuration initialized.
+2024-07-17 10:04:05.6296 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-07-17 10:04:05.6520 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-07-17 10:04:05.6931 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-17 10:04:05.8431 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-07-17 10:04:05.8510 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-07-17 10:04:05.9340 Info Configuration initialized.
+2024-08-07 18:54:14.4955 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-07 18:54:14.5183 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-07 18:54:14.5882 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:54:14.7170 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-07 18:54:14.7257 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-07 18:54:14.8470 Info Configuration initialized.
+2024-08-07 18:54:46.5350 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-07 18:54:46.5509 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-07 18:54:46.6121 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:54:46.7233 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-07 18:54:46.7314 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-07 18:54:46.8126 Info Configuration initialized.
+2024-08-07 18:55:19.5444 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-07 18:55:19.5588 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-07 18:55:19.6179 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:55:19.7212 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-07 18:55:19.7288 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-07 18:55:19.7994 Info Configuration initialized.
+2024-08-07 18:56:47.8963 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-07 18:56:47.9143 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-07 18:56:47.9741 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:56:48.0803 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-07 18:56:48.1074 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-07 18:56:48.1821 Info Configuration initialized.
+2024-08-07 20:21:19.3316 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-07 20:21:19.3476 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-07 20:21:19.4087 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:21:19.5369 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-07 20:21:19.5450 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-07 20:21:19.6373 Info Configuration initialized.
+2024-08-07 20:31:47.8067 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-07 20:31:47.8227 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-07 20:31:47.8825 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:31:47.9916 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-07 20:31:47.9991 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-07 20:31:48.0804 Info Configuration initialized.
+2024-08-07 20:35:44.7325 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-07 20:35:44.7491 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-07 20:35:44.8090 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:35:44.9243 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-07 20:35:44.9321 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-07 20:35:45.0151 Info Configuration initialized.
+2024-08-12 08:17:19.1236 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 08:17:19.1431 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 08:17:19.1862 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 08:17:19.2905 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-12 08:17:19.2982 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 08:17:19.3867 Info Configuration initialized.
+2024-08-12 08:18:17.7833 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 08:18:17.7982 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 08:18:17.8340 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 08:18:17.9061 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-12 08:18:17.9138 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 08:18:17.9842 Info Configuration initialized.
+2024-08-12 08:18:32.4249 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 08:18:32.4395 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 08:18:32.4736 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 08:18:32.5523 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-12 08:18:32.5594 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 08:18:32.6278 Info Configuration initialized.
+2024-08-12 08:19:12.6974 Error DatabaseTarget(Name=mysql): Error when writing to database. Exception: MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.TimeoutException: The operation has timed out.
+   at MySql.Data.Common.StreamCreator.GetTcpStreamAsync(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken, Boolean execAsync)
+   at MySql.Data.Common.StreamCreator.GetStreamAsync(MySqlConnectionStringBuilder settings, CancellationToken cancellationToken, Boolean execAsync)
+   at MySql.Data.MySqlClient.NativeDriver.OpenAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.NativeDriver.OpenAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.Driver.OpenAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.Driver.CreateAsync(MySqlConnectionStringBuilder settings, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.Driver.CreateAsync(MySqlConnectionStringBuilder settings, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnectionAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnectionAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriverAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlPool.GetConnectionAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventSuppressTransactionScope(LogEventInfo logEvent, String connectionString)
+2024-08-12 08:19:59.5162 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 08:19:59.5318 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 08:19:59.5690 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 08:19:59.6517 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-12 08:19:59.6592 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 08:19:59.7371 Info Configuration initialized.
+2024-08-12 08:21:22.3438 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 08:21:22.3592 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 08:21:22.3955 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 08:21:22.4733 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/NewFrame/WebApi/WebApi/bin/Debug/net8.0/NLog.config
+2024-08-12 08:21:22.4809 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 08:21:22.5507 Info Configuration initialized.
+2024-08-12 16:43:03.8790 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:43:03.9039 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:43:03.9636 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:43:04.1148 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:43:04.1241 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:43:04.2375 Info Configuration initialized.
+2024-08-12 16:43:56.9675 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:43:56.9855 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:43:57.0278 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:43:57.1294 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:43:57.1381 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:43:57.2136 Info Configuration initialized.
+2024-08-12 16:45:17.0229 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:45:17.0390 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:45:17.0774 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:45:17.1680 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:45:17.1763 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:45:17.2568 Info Configuration initialized.
+2024-08-12 16:47:03.0770 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:47:03.0957 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:47:03.1412 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:47:03.2376 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:47:03.2453 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:47:03.3310 Info Configuration initialized.
+2024-08-12 16:48:45.7410 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:48:45.7560 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:48:45.7930 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:48:45.8874 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:48:45.8949 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:48:45.9792 Info Configuration initialized.
+2024-08-12 16:52:13.5524 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:52:13.5698 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:52:13.6090 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:52:13.7426 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:52:13.7520 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:52:13.8531 Info Configuration initialized.
+2024-08-12 16:53:19.6781 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:53:19.6924 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:53:19.7275 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:53:19.8212 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:53:19.8288 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:53:19.8996 Info Configuration initialized.
+2024-08-12 16:55:46.5503 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:55:46.5681 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:55:46.6071 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:55:46.7001 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:55:46.7097 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:55:46.7838 Info Configuration initialized.
+2024-08-12 16:57:50.3648 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-12 16:57:50.3823 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-12 16:57:50.4221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-12 16:57:50.5190 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-12 16:57:50.5277 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-12 16:57:50.6013 Info Configuration initialized.
+2024-08-14 10:47:32.4368 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 10:47:32.4524 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 10:47:32.4878 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 10:47:32.5937 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 10:47:32.6020 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 10:47:32.6878 Info Configuration initialized.
+2024-08-14 10:49:30.3926 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 10:49:30.4086 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 10:49:30.4468 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 10:49:30.5739 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 10:49:30.5818 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 10:49:30.6707 Info Configuration initialized.
+2024-08-14 15:24:00.1962 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 15:24:00.2238 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 15:24:00.3023 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:24:00.4500 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 15:24:00.4579 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 15:24:00.5998 Info Configuration initialized.
+2024-08-14 15:24:13.6693 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 15:24:13.6848 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 15:24:13.7466 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:24:13.8437 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 15:24:13.8515 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 15:24:13.9227 Info Configuration initialized.
+2024-08-14 15:25:53.1834 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 15:25:53.1976 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 15:25:53.2555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:25:53.3500 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 15:25:53.3576 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 15:25:53.4260 Info Configuration initialized.
+2024-08-14 15:28:53.2255 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 15:28:53.2429 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 15:28:53.3135 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:28:53.4084 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 15:28:53.4168 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 15:28:53.4885 Info Configuration initialized.
+2024-08-14 15:31:19.9908 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 15:31:20.0102 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 15:31:20.0814 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 15:31:20.1831 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 15:31:20.1907 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 15:31:20.2604 Info Configuration initialized.
+2024-08-14 16:42:04.9111 Info Registered target NLog.Targets.DatabaseTarget(Name=mysql)
+2024-08-14 16:42:04.9291 Info Registered target NLog.Targets.FileTarget(Name=internalLog)
+2024-08-14 16:42:04.9948 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 16:42:05.0898 Info Validating config: TargetNames=mysql, ConfigItems=39, FilePath=/Users/wenni/wl/SelfProject/WlMicroservices/MicroServicesWeb/bin/Debug/net8.0/NLog.config
+2024-08-14 16:42:05.0974 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: internalLog
+2024-08-14 16:42:05.1852 Info Configuration initialized.
