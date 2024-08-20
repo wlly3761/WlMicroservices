@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LocationsWithSilentDeleteHolder">
+    <option name="locations">
+      <list>
+        <option value="$PROJECT_DIR$/OrderService/bin/Release/net8.0/linux-x64/publish" />
+        <option value="$PROJECT_DIR$/ProductService/bin/Release/net8.0/linux-x64/publish" />
+        <option value="$PROJECT_DIR$/MicroServicesWeb/bin/Release/net8.0/linux-x64/publish" />
+        <option value="$PROJECT_DIR$/Ocelot.APIGateway/bin/Release/net8.0/linux-x64/publish" />
+        <option value="$PROJECT_DIR$/MicroServicesWeb/bin/Release/net8.0/osx-x64/publish" />
+      </list>
+    </option>
+  </component>
+</project>
